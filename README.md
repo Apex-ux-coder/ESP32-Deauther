@@ -30,7 +30,7 @@ NETCIPHER is a **Wi-Fi security testing framework** for ESP32. It combines power
 |:---|:---|
 | **Evil Twin** | Clone any network, capture passwords with captive portal |
 | **Hidden SSID Recovery** | Force hidden networks to reveal their SSID themselves |
-| **Beacon Spam** | Flood with fake SSIDs (Random + Clone modes) |
+| **Beacon Spam** | Flood with fake SSIDs (Random) |
 
 ### 📊 Monitoring & Logging
 
