@@ -38,7 +38,7 @@ NETCIPHER is a **Wi-Fi security testing framework** for ESP32. It combines power
 |:---|:---|
 | **Deauth Detector** | Detect deauth attacks in your area |
 | **Station Scanner** | Discover clients connected to selected APs |
-| **Nearby Scanner** | See nearby Stations.
+| **Nearby Scanner** | See nearby Stations |
 | **Password Logs** | Persistent storage with verification status |
 
 ### 🖥️ Extra features
