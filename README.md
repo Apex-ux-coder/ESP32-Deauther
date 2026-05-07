@@ -38,16 +38,18 @@ NETCIPHER is a **Wi-Fi security testing framework** for ESP32. It combines power
 |:---|:---|
 | **Deauth Detector** | Detect deauth attacks in your area |
 | **Station Scanner** | Discover clients connected to selected APs |
+| **Nearby Scanner** | See nearby Stations.
 | **Password Logs** | Persistent storage with verification status |
 
-### 🖥️ Interface
+### 🖥️ Extra features
 
-| Interface | Description |
+| Features | Description |
 |:---|:---|
 | **Web Interface** | Control all actions with web interface |
 | **OLED Display** | 128x64 (SH1106) — real-time status |
 | **Physical Buttons** | Full control without phone |
 | **Digital Clock** | Real-time clock on OLED(only if any device is connected to softAP) |
+| **AC Detector** | Detects live 50/60Hz AC wires via GPIO 34 |
 
 ---
 
