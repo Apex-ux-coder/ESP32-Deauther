@@ -1,4 +1,4 @@
-# 🔐 NETCIPHER
+# NETCIPHER
 
 ### *ESP32 Wi-Fi Security Testing Framework*
  
@@ -12,9 +12,9 @@ NETCIPHER is a **Wi-Fi security testing framework** for ESP32. It combines power
 
 ---
 
-## ✨ Features
+## Features
 
-### 🔥 Core Attacks
+### Core Attacks
 
 | Attack | Description |
 |:---|:---|
@@ -24,7 +24,7 @@ NETCIPHER is a **Wi-Fi security testing framework** for ESP32. It combines power
 | **STA Deauth** | Target specific clients |
 | **Reactive Deauth/Dynamic Deauth** | Auto-deauth connecting clients to selected AP |
 
-### 🎭 Spoofing & Capture
+### Spoofing & Capture
 
 | Attack | Description |
 |:---|:---|
@@ -32,7 +32,7 @@ NETCIPHER is a **Wi-Fi security testing framework** for ESP32. It combines power
 | **Hidden SSID Recovery** | Force hidden networks to reveal their SSID themselves |
 | **Beacon Spam** | Flood with fake SSIDs (Random) |
 
-### 📊 Monitoring & Logging
+### Monitoring & Logging
 
 | Feature | Description |
 |:---|:---|
@@ -41,7 +41,7 @@ NETCIPHER is a **Wi-Fi security testing framework** for ESP32. It combines power
 | **Nearby Scanner** | See nearby Stations |
 | **Password Logs** | Persistent storage with verification status |
 
-### 🖥️ Extra features
+### Extra features
 
 | Features | Description |
 |:---|:---|
@@ -54,7 +54,7 @@ NETCIPHER is a **Wi-Fi security testing framework** for ESP32. It combines power
 
 ---
 
-## 📦 Hardware Requirements
+## Hardware Requirements
 
 | Component | Recommended |
 |:---|:---|
@@ -77,7 +77,7 @@ NETCIPHER is a **Wi-Fi security testing framework** for ESP32. It combines power
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Download** the latest firmware from Releases
 2. **Flash** the `.bin` file to your ESP32 using ESP32 Flash Download Tool or esptool
@@ -86,7 +86,7 @@ NETCIPHER is a **Wi-Fi security testing framework** for ESP32. It combines power
 
 ---
 
-## 🎮 Controls
+## Controls
 
 | Button | Action |
 |:---|:---|
@@ -96,7 +96,7 @@ NETCIPHER is a **Wi-Fi security testing framework** for ESP32. It combines power
 
 ---
 
-## ⚠️ Legal Disclaimer
+## ⚠️ Legal Disclaimer ⚠️
 
 > **NETCIPHER is for educational and authorized security testing purposes only.**
 >
@@ -106,7 +106,7 @@ NETCIPHER is a **Wi-Fi security testing framework** for ESP32. It combines power
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **[Spacehuhn](https://github.com/spacehuhn)** — For the original ESP8266 Deauther that inspired this project
 - **ESP32 Community** — For continuous support and inspiration
