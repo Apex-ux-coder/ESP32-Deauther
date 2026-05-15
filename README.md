@@ -6,7 +6,7 @@
 
 ---
 
-## 📡 About NETCIPHER:-
+## About NETCIPHER:-
 
 NETCIPHER is a **Wi-Fi security testing framework** for ESP32. It combines powerful pentesting attacks — all controllable via OLED display + buttons and Web Interface.
 
