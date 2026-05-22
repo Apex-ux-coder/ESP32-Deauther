@@ -82,7 +82,7 @@ NETCIPHER is a **Wi-Fi security testing framework** for ESP32. It combines power
 1. **Download** the latest firmware from Releases
 2. **Flash** the `.bin` file to your ESP32 using ESP32 Flash Download Tool or esptool
 3. **Connect** OLED and buttons as per pin configuration
-5. **Power on** and navigate using the buttons or connect to NETCIPHER wifi and use the web interface
+5. **Power on** and navigate using the buttons or connect to NETCIPHER wifi with default password 'deauther' and use the web interface
 
 ---
 
