@@ -84,6 +84,17 @@ NETCIPHER is a **Wi-Fi security testing framework** for ESP32. It combines power
 3. **Connect** OLED and buttons as per pin configuration
 5. **Power on** and navigate using the buttons or connect to NETCIPHER wifi with default password 'deauther' and use the web interface
 
+### ⚠️ Important Build Requirements
+
+If you are compiling from source:
+
+| Requirement | Version |
+|:---|:---|
+| **Arduino Board Manager** | `2.0.14` |
+| **Custom platform.txt** | Use the version provided in `/repo/platform.txt` |
+
+> **Note:** Other versions of the ESP32 board package may cause compilation errors. The custom `platform.txt` file contains necessary compiler flags and optimizations specific to NETCIPHER.
+
 ---
 
 ## Controls
