@@ -91,7 +91,7 @@ If you are compiling from source:
 | Requirement | Version |
 |:---|:---|
 | **Arduino Board Manager** | `2.0.14` |
-| **Custom platform.txt** | Use the version provided in `/repo/platform.txt` |
+| **Custom platform.txt** | Use the version provided in `platform.txt` |
 
 > **Note:** Other versions of the ESP32 board package may cause compilation errors. The custom `platform.txt` file contains necessary compiler flags and optimizations specific to NETCIPHER.
 
